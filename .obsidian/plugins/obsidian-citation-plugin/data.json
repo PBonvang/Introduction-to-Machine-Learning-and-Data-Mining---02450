@@ -1,0 +1,9 @@
+{
+  "citationExportFormat": "csl-json",
+  "literatureNoteTitleTemplate": "@{{citekey}}",
+  "literatureNoteFolder": "Zettlekasten/Literature",
+  "literatureNoteContentTemplate": "---\ntitle: {{title}}\nauthors: {{authorString}}\nyear: {{year}}\npublisher: {{publisher}}\npublisherPlace: {{publisherPlace}}\nurl: {{url}}\npages: {{page}}\n---\n\n# {{title}}\n**Authors:**  {{authorString}}\n**Year of publication:** {{year}}\n**Publisher:** {{publisher}}\n**URL:** {{url}}\n\n**Abstract:**\n{{abstract}}\n## Notes\n{{note}}",
+  "markdownCitationTemplate": "[@{{citekey}}]",
+  "alternativeMarkdownCitationTemplate": "@{{citekey}}",
+  "citationExportPath": "Plugins/Citations/ZoteroLib.json"
+}
