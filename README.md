@@ -9,8 +9,11 @@ The purpose of this vault is to supply an easy to navigate lexicon for the vario
 
 ## Installation
 1. Install [Obsidian](https://obsidian.md/)
-2. `git clone `
-3. Open vault using obsidian
+2. `git clone https://github.com/PBonvang/Introduction-to-Machine-Learning-and-Data-Mining---02450.git`
+3. Open vault using Obsidian
+   1. Open Obsidian
+   2. Click *Open folder as vault*
+   3. Navigate to the cloned folder
 4. Keep safe mode off (To allow the community plugins)
 
 ## Get newest updates
